@@ -1,15 +1,96 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/manifest.json",
+    "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/manifest.json",
     "type": "Manifest",
     "label": {
         "en": [
-            "All images loaded in niamhahern/IIIFPractice-NiamhAhern project"
+            "All images loaded in glenrobson/IIIFPractice-NiamhAhern project"
         ]
     },
     "items": [
         {
-            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/canvas/",
+            "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Dawsons_Caribou_at_Royal_BC_Museum"
+                ]
+            },
+            "height": 360,
+            "width": 480,
+            "items": [
+                {
+                    "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 15,
+                                                "height": 12
+                                            },
+                                            {
+                                                "width": 30,
+                                                "height": 23
+                                            },
+                                            {
+                                                "width": 60,
+                                                "height": 45
+                                            },
+                                            {
+                                                "width": 120,
+                                                "height": 90
+                                            },
+                                            {
+                                                "width": 240,
+                                                "height": 180
+                                            },
+                                            {
+                                                "width": 480,
+                                                "height": 360
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 480,
+                                        "@id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 360,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -20,11 +101,11 @@
             "width": 1536,
             "items": [
                 {
-                    "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/annotation/AnnoPage",
+                    "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/annotation/",
+                            "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -83,7 +164,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/canvas/"
+                            "target": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/canvas/"
                         }
                     ]
                 }
