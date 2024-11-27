@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 15,
+    "height" : 12
+  }, {
+    "width" : 30,
+    "height" : 23
+  }, {
+    "width" : 60,
+    "height" : 45
+  }, {
+    "width" : 120,
+    "height" : 90
+  }, {
+    "width" : 240,
+    "height" : 180
+  }, {
+    "width" : 480,
+    "height" : 360
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 480,
+  "@id" : "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 360
+}
