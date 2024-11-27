@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2090,
-  "@id" : "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Cassiopea_xamachana_larva",
+  "@id" : "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cassiopea_xamachana_larva",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1567
 }

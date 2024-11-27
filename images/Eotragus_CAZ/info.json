@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 4000,
-  "@id" : "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Eotragus_CAZ",
+  "@id" : "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Eotragus_CAZ",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3000
 }
