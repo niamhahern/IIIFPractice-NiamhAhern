@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 480,
-  "@id" : "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum",
+  "@id" : "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 360
 }
