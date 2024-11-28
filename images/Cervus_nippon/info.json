@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 89,
+    "height" : 133
+  }, {
+    "width" : 177,
+    "height" : 266
+  }, {
+    "width" : 354,
+    "height" : 532
+  }, {
+    "width" : 708,
+    "height" : 1064
+  }, {
+    "width" : 1416,
+    "height" : 2128
+  }, {
+    "width" : 2832,
+    "height" : 4256
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2832,
+  "@id" : "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cervus_nippon",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4256
+}

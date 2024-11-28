@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 60,
+    "height" : 41
+  }, {
+    "width" : 120,
+    "height" : 81
+  }, {
+    "width" : 240,
+    "height" : 161
+  }, {
+    "width" : 480,
+    "height" : 321
+  }, {
+    "width" : 960,
+    "height" : 641
+  }, {
+    "width" : 1920,
+    "height" : 1281
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1920,
+  "@id" : "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Squid-fish",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1281
+}

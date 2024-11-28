@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Squid-fish/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Squid-fish"
+                ]
+            },
+            "height": 1281,
+            "width": 1920,
+            "items": [
+                {
+                    "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Squid-fish/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Squid-fish/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Squid-fish/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 60,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 120,
+                                                "height": 81
+                                            },
+                                            {
+                                                "width": 240,
+                                                "height": 161
+                                            },
+                                            {
+                                                "width": 480,
+                                                "height": 321
+                                            },
+                                            {
+                                                "width": 960,
+                                                "height": 641
+                                            },
+                                            {
+                                                "width": 1920,
+                                                "height": 1281
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1920,
+                                        "@id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Squid-fish",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1281,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Squid-fish/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/canvas/",
             "type": "Canvas",
             "label": {
@@ -28,7 +109,7 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/full/full/0/default.jpg",
+                                "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -75,7 +156,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 480,
-                                        "@id": "https://glenrobson.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum",
+                                        "@id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 360,
                                         "@type": "ImageService2"
@@ -84,6 +165,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Dawsons_Caribou_at_Royal_BC_Museum/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Eotragus_CAZ/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Eotragus_CAZ"
+                ]
+            },
+            "height": 3000,
+            "width": 4000,
+            "items": [
+                {
+                    "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Eotragus_CAZ/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Eotragus_CAZ/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Eotragus_CAZ/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 125,
+                                                "height": 94
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 2000,
+                                                "height": 1500
+                                            },
+                                            {
+                                                "width": 4000,
+                                                "height": 3000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4000,
+                                        "@id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Eotragus_CAZ",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Eotragus_CAZ/canvas/"
                         }
                     ]
                 }
@@ -165,6 +327,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Adult_female_ocicat_sitting_Ljhlusko/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cervus_nippon/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Cervus_nippon"
+                ]
+            },
+            "height": 4256,
+            "width": 2832,
+            "items": [
+                {
+                    "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cervus_nippon/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cervus_nippon/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cervus_nippon/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 89,
+                                                "height": 133
+                                            },
+                                            {
+                                                "width": 177,
+                                                "height": 266
+                                            },
+                                            {
+                                                "width": 354,
+                                                "height": 532
+                                            },
+                                            {
+                                                "width": 708,
+                                                "height": 1064
+                                            },
+                                            {
+                                                "width": 1416,
+                                                "height": 2128
+                                            },
+                                            {
+                                                "width": 2832,
+                                                "height": 4256
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2832,
+                                        "@id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cervus_nippon",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4256,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cervus_nippon/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cassiopea_xamachana_larva/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Cassiopea_xamachana_larva"
+                ]
+            },
+            "height": 1567,
+            "width": 2090,
+            "items": [
+                {
+                    "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cassiopea_xamachana_larva/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cassiopea_xamachana_larva/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cassiopea_xamachana_larva/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 66,
+                                                "height": 49
+                                            },
+                                            {
+                                                "width": 131,
+                                                "height": 98
+                                            },
+                                            {
+                                                "width": 262,
+                                                "height": 196
+                                            },
+                                            {
+                                                "width": 523,
+                                                "height": 392
+                                            },
+                                            {
+                                                "width": 1045,
+                                                "height": 784
+                                            },
+                                            {
+                                                "width": 2090,
+                                                "height": 1567
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2090,
+                                        "@id": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cassiopea_xamachana_larva",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1567,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niamhahern.github.io/IIIFPractice-NiamhAhern/images/Cassiopea_xamachana_larva/canvas/"
                         }
                     ]
                 }
